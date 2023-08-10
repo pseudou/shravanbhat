@@ -7,7 +7,7 @@ enableGitInfo = true
 
 # additional settings
 googleAnalytics = "G-T85PPZ36GN"
-baseURL = "https://demo.gethinode.com/"
+baseURL = "https://shravanbhat.netlify.app/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
