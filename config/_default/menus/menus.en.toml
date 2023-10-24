@@ -20,15 +20,33 @@
   weight = 1
 
 [[main]]
-  name = "Enhance Image project"
-  pageRef = "/projects/enhance-project/"
+  name = "Deep Fake Project"
+  pageRef = "/projects/deep-fake-project/"
   parent = "Projects"
   weight = 2
 
 [[main]]
+  name = "Dark Image Project"
+  pageRef = "/projects/dark-image-project/"
+  parent = "Projects"
+  weight = 3
+
+[[main]]
+  name = "Enhance Image project"
+  pageRef = "/projects/enhance-project/"
+  parent = "Projects"
+  weight = 4
+
+[[main]]
+  name = "Certificates"
+  pageRef = "/certificates/"
+  weight = 40
+
+
+[[main]]
   name = "Tags"
   pageRef = "/tags/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "LinkedIn"
@@ -66,8 +84,27 @@
   weight = 1
 
 [[sample]]
+  name = "Deep Fake Project"
+  pageRef = "/projects/deep-fake-project/"
+  parent = "Projects"
+  weight = 2
+
+[[sample]]
+  name = "Dark Image Project"
+  pageRef = "/projects/dark-image-project/"
+  parent = "Projects"
+  weight = 3
+
+
+[[sample]]
   name = "Enhance Image Project"
   pageRef = "/projects/enhance-project/"
   parent = "Projects"
-  weight = 2
+  weight = 4
+
+[[sample]]
+  name = "Certificates"
+  pageRef = "/certificates/"
+  weight = 30
+
 # toml-docs-end sample-navigation
