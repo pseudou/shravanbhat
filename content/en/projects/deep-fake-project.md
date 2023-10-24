@@ -3,7 +3,7 @@ author: Shravan Bhat
 title: Deepfake Creation through Transformer-based Sequence2Sequence Modeling
 description: Deepfake Creation through Transformer-based Sequence2Sequence Modeling
 tags: ["python", "PyTorch", "Deep Learning"]
-icon: fas map
+icon: fas face-laugh
 layout: minimal
 ---
 

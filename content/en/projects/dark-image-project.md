@@ -3,7 +3,7 @@ author: Shravan Bhat
 title: Dark Image Processing for Glare-Prone Environments
 description: Alogrithm to mitigate glare-induced Darkness
 tags: ["python", "OpenCV"]
-icon: fas map
+icon: fas lightbulb
 layout: minimal
 ---
 
