@@ -7,6 +7,7 @@ layout: minimal
 
 * <a href="bravo_award.pdf">Bravo Award</a>
 * <a href="SpotAward.pdf">Spot Award</a>
+* <a href="class_rank.pdf">Top 10 Percentile, Undergraduate NITK</a>
 * <a href="imagineer_cert.pdf">3rd Place, Imagineer NITK</a>
 
 **Peer Review**
