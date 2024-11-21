@@ -63,7 +63,7 @@
 [[social]]
   name = "Gmail"
   pre = "<i class=\"fa-solid fa-envelope fa-2x\"></i>"
-  url = "mailto:shravanbhat@gmail.com"
+  url = "mailto:shravanbhat0@gmail.com"
   weight = 20
 
 # toml-docs-start sample-navigation
